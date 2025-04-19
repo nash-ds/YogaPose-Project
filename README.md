@@ -58,8 +58,8 @@ Welcome to the **Yoga Pose Detection Web Application**, a cutting-edge platform 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/yoga-pose-detection.git
-   cd yoga-pose-detection
+   git clone https://github.com/nash-ds/YogaPose-Project.git
+   cd YogaPose-Project/Backend
    ```
 
 2. **Set Up Virtual Environment**:
@@ -77,6 +77,18 @@ Welcome to the **Yoga Pose Detection Web Application**, a cutting-edge platform 
    ```bash
    python app.py
    ```
+
+5. **Back to Frontend foldre**:
+   ```bash
+   cd ~YogaPose-Project/Frontend
+   ```
+
+4. **Run the Application**:
+   ```bash
+   npm run dev
+   open port localhost:8000 on your browser to access the application
+   ```
+   
 ---
 
 ## 📖 Usage
