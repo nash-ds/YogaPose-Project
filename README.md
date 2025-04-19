@@ -109,3 +109,7 @@ Welcome to the **Yoga Pose Detection Web Application**, a cutting-edge platform 
 - Modern browser (Chrome, Firefox, Edge)
 - Stable internet for development server
 - Python 3.8+ with required packages
+
+---
+[![DOI](https://zenodo.org/badge/969124814.svg)](https://doi.org/10.5281/zenodo.15246390)
+
