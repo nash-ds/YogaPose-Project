@@ -6,6 +6,15 @@
 Welcome to the **Yoga Pose Detection Web Application**, a cutting-edge platform designed to elevate your yoga practice through **real-time pose detection**, **session management**, **meditation support**, and **progress tracking**. Leveraging **computer vision** and **web technologies**, this tool offers an engaging experience for yoga enthusiasts, complete with a rich pose library, calming meditation audio, and tools for diet and progress tracking.
 
 ---
+## Demonstration
+- **Tree Pose**
+- <img width="1910" height="1230" alt="Figure 11" src="https://github.com/user-attachments/assets/c99de9a6-75f0-4193-bd7b-27bfd3c07e2b" />
+
+- **Triangle Pose**
+- <img width="1910" height="1230" alt="Figure 12" src="https://github.com/user-attachments/assets/61ceb4be-3b1f-459d-b6c9-a3cd5f43f827" />
+
+
+---
 
 ## ✨ Features
 
